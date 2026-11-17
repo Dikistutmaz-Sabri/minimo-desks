@@ -1,0 +1,5 @@
+*.so
+vendor/
+backup/
+test/math_test
+test/nested.log
